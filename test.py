@@ -1,0 +1,9 @@
+x=4
+if(x==3):
+  print("hello")
+  print("second")
+elif(x==0):
+  print("python")
+else:
+  print("session")
+print("all")
